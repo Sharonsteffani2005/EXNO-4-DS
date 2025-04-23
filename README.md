@@ -1,6 +1,6 @@
 # EXNO:4-DS
-## Name: EZHIL NEVEDHA K
-## REG.NO: 212223230055
+## Name: SHARON STEFFANI.F
+## REG.NO: 212223110049
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
